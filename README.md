@@ -1,2 +1,2 @@
 # Golang-Blockchain
- Golang Blockchain Project for practice 
+ Golang Blockchain Project 
